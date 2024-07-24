@@ -1,0 +1,23 @@
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .box div {
+    text-align: center;
+    margin: 20px;
+    width: 200px;
+  }
+ .text{
+  background-color: beige;
+ }
+ .heading_aboutus{
+  background-color: black;
+ }
+ .banner{
+  bac
+ }
+ #section{
+  display: flex: ;
+ }

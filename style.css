@@ -1,0 +1,125 @@
+/* .nav_bar{ */
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+/* } */
+  /* .Banner{ 
+    display: inline;
+    background-repeat: no-repeat;
+    width: 500px;
+    color: black;
+    text-align: center;
+    height: 100px;
+  /* } */
+  /* .box{ */
+    display: flex;
+    margin:10px 10px 10px 10px ;
+    text-align: center;
+    background-color: aquamarine;
+  /* } */
+  /* .box1{ */
+    display: flex;
+    margin:10px 10px 10px 10px ;
+    text-align: center;
+    background-color: aquamarine;
+  /* } */
+  /* Resetting default margins and paddings */
+body, h1, p, ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Setting a common style for text */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Styling the header */
+#header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+}
+
+.navbar {
+  text-align: center;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.navbar ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.navbar ul li a:hover {
+  color: #ccc;
+}
+
+/* Styling the banner */
+.bannerv {
+  background-color: #f0f0f0;
+  display: flex;
+  position: relative;
+  padding: 20px 0;
+  background-image: url(images/background.jpg);
+  background-size: 100%;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100%;
+}
+
+.banner p {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Styling the text section */
+.text {
+  padding: 20px 0;
+}
+
+.text p {
+  font-size: 18px;
+}
+
+/* Styling the boxes */
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.box div {
+  text-align: center;
+  margin: 20px;
+  width: 200px;
+}
+
+.box img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.box h1 {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+
+  

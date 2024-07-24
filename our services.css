@@ -1,0 +1,19 @@
+#header{
+    background-color:skin;
+    padding-left: 10px;
+}
+.points{
+    padding-inline: 2px;
+    gap: 10px;
+}
+#section{
+    width: 100%;
+    padding-top: 20px;
+    height: 200px;
+    size: 200px;
+}
+.ending{
+    background-color: beige;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
